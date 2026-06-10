@@ -1,0 +1,13 @@
+fiscal_year,gross_npa_pct,npa_yoy_change,stress_signal,source
+2012-13,3.2,,Baseline,RBI Handbook Table 53
+2013-14,3.8,0.6,Mild Deterioration,RBI Handbook Table 53
+2014-15,4.3,0.5,Mild Deterioration,RBI Handbook Table 53
+2015-16,7.5,3.2,Sharp Deterioration,RBI Handbook Table 53
+2016-17,9.3,1.8,Sharp Deterioration,RBI Handbook Table 53
+2017-18,11.2,1.9,Sharp Deterioration,RBI Handbook Table 53
+2018-19,9.1,-2.1,Sharp Improvement,RBI Handbook Table 53
+2019-20,8.2,-0.9,Mild Improvement,RBI Handbook Table 53
+2020-21,7.3,-0.9,Mild Improvement,RBI Handbook Table 53
+2021-22,5.8,-1.5,Sharp Improvement,RBI Handbook Table 53
+2022-23,3.9,-1.9,Sharp Improvement,RBI Handbook Table 53
+2023-24,2.7,-1.2,Sharp Improvement,RBI Handbook Table 53

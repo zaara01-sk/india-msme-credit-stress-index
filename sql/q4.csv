@@ -1,0 +1,7 @@
+fiscal_year,guarantee_amt_cr,guarantee_growth_pct,policy_signal
+FY 2019-20,45851,NULL,Baseline
+FY 2020-21,36899,-19.52,Contraction
+FY 2021-22,56172,52.23,Aggressive Expansion
+FY 2022-23,104781,86.54,Aggressive Expansion
+FY 2023-24,202807,93.55,Aggressive Expansion
+FY 2024-25,305507,50.64,Aggressive Expansion
